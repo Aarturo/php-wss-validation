@@ -1,0 +1,11 @@
+{
+    "name": "arturo/php-wss-validation",
+    "description": "wss validation",
+    "authors": [
+        {
+            "name": "Arturo Castillo",
+            "email": "arturo@escaleno.cl"
+        }
+    ],
+    "require": {}
+}
