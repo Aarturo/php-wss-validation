@@ -1,6 +1,7 @@
 {
     "name": "arturo/php-wss-validation",
     "description": "wss validation",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Arturo Castillo",
